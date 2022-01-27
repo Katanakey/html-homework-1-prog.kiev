@@ -1,0 +1,321 @@
+.background{
+    background: url('./images/Слой\ 15@1X.png') no-repeat;
+    opacity: .4;
+    width: 1300px;
+    height: 753px;
+    position: absolute;
+    top: 75px;
+    left: 8px;
+}
+.line1{
+    background-color: darkred;
+    width: 1300px;
+    height: 72px;
+    position: absolute;
+    top: 3px;
+    left: 8px;
+}
+.roshen{
+    background: url('./images/Слой\ 12@1X.png') no-repeat;
+    width: 177px;
+    height: 41px;
+    position: absolute;
+    top: 15px;
+    left: 67px;
+}
+.infa{
+    background: url('./images/О\ ROSHEN@1X.png') no-repeat;
+    width: 70px;
+    height: 11px;
+    position: absolute;
+    top: 38px;
+    left: 369px;
+}
+.news{
+    background:url('./images/НОВОСТИ@1X.png') no-repeat;
+    width: 71px;
+    height: 11px;
+    position: absolute;
+    top: 38px;
+    left: 469px;
+}
+#magaz{
+    background: url('./images/МАГАЗИНЫ@1X.png') no-repeat;
+    width: 81px;
+    height: 11px;
+    position: absolute;
+    top: 38px;
+    left: 572px;
+}
+#social{
+    background: url('./images/СОЦИАЛЬНЫЕ\ ПРОЕКТЫ@1X.png') no-repeat;
+    width: 175px;
+    height: 14px;
+    position: absolute;
+    top: 38px;
+    left: 687px;
+}
+#career{
+    background: url('./images/КАРЬЕРА\ @1X.png') no-repeat;
+    width: 62px;
+    height: 10px;
+    position: absolute;
+    top: 38px;
+    left: 893px;
+}
+#cont{
+    background: url('./images/КОНТАКТЫ@1X.png') no-repeat;
+    width: 80px;
+    height: 11px;
+    position: absolute;
+    top: 38px;
+    left: 987px;
+}
+#eng{
+    background: url('./images/ENG@1X.png')no-repeat;
+    width: 37px;
+    height: 18px;
+    position: absolute;
+    top: 37px;
+    left: 1197px;
+}
+#sign{
+    background: url('./images/English@1X.png') no-repeat;
+    width: 26px;
+    height: 18px;
+    position: absolute;
+    top: 35px;
+    left: 1160px;
+}
+.picture{
+    background: url('./images/Прямоугольник\ 1@1X.png') no-repeat;
+    width: 1168px;
+    height: 337px;
+    position: absolute;
+    top: 95px;
+    left: 66px;
+}
+#arrow1{
+    background: url('./images/right-arrow-circular-button\ \(1\)@1X.png') no-repeat;
+    width: 55px;
+    height: 55px;
+    position: absolute;
+    top: 131px;
+    left: 17px;
+}
+#arrow2{
+    background: url('./images/right-arrow-circular-button\ \(1\)\ копия@1X.png') no-repeat;
+    width: 55px;
+    height: 55px;
+    position: absolute;
+    top: 131px;
+    right: 17px;
+}
+#text{
+    font-size: 60px;
+    color: #35040C;
+    width: 455px;
+    height: 54px;
+    position: absolute;
+    top: 8px;
+    left: 425px;
+    margin: 10px;
+}
+#figure{
+    background-color: rgba(246, 204, 121, 1);
+    width: 191px;
+    height: 44px;
+    position: absolute;
+    top: 102px;
+    left: 537px;
+    border-radius: 10%;
+    z-index: 1;
+
+}
+#figure2{
+    background-color: rgba(191, 103, 13, 1);
+    width: 191px;
+    height: 44px;
+    position: absolute;
+    top: 105px;
+    left: 537px;
+    border-radius: 10%;
+}
+#km{
+    font-size: large;
+    position: absolute;
+    top: 10px;
+    left: 35px;
+    text-align: center;
+}
+#ellipse1{
+background-color: rgba(255, 255, 255, 1);
+width: 19px;
+height: 17px;
+position: absolute;
+border-radius: 50%;
+left: 55px;
+top: 210px;
+}
+#ellipse2{
+    background-color: rgba(191, 103, 13, 1);
+    width: 19px;
+    height: 17px;
+    border-radius: 50%;
+    position: absolute;
+    left: 85px;
+    top: 210px;
+}
+#ellipse3{
+    background-color: rgba(255, 255, 255, 1);
+    width: 19px;
+    height: 17px;
+    border-radius: 50%;
+    position: absolute;
+    left: 115px;
+    top: 210px;
+}
+.overdone{
+    color: #060606;
+    font-size: 18px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 269px;
+    height: 64px;
+    position: absolute;
+    top: 461px;
+    left: 65px;
+}
+#underdone{
+    color: #060606;
+    font-size: 14px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 259px;
+    height: 135px;
+    position: absolute;
+    top: 604px;
+    left: 65px;
+}
+.overdone2{
+    color: #030303;
+    font-size: 16px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 259px;
+    height: 135px;
+    position: absolute;
+    top: 460px;
+    left: 363px;
+}
+#underdone2{
+    color: #070707;
+    font-size: 14px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 259px;
+    height: 135px;
+    position: absolute;
+    top: 604px;
+    left: 362px;
+}
+.overdone3{
+    color: #030303;
+    font-size: 16px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 233px;
+    height: 89px;
+    position: absolute;
+    top: 460px;
+    left: 662px;
+}
+#underdone3{
+    color: #030303;
+    font-size: 14px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 233px;
+    height: 89px;
+    position: absolute;
+    top: 604px;
+    left: 660px;
+}
+.overdone4{
+    color:#060606;
+    font-size: 16px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 249px;
+    height: 63px;
+    position: absolute;
+    top: 460px;
+    left: 959px;
+}
+#underdone4{
+    color: #030303;
+    font-size: 14px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 233px;
+    height: 89px;
+    position: absolute;
+    top: 604px;
+    left: 959px;
+}
+.line2{
+    background-color: darkred;
+    width: 1300px;
+    height: 72px;
+    position: absolute;
+    top: 827px;
+    left: 8px;
+}
+#site{
+    width: 192px;
+    height: 14px;
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    top: 38px;
+    left: 65px;
+    position: absolute;
+    color: #FBC86B;
+}
+#adress{
+    width: 192px;
+    height: 14px;
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    top: 18px;
+    left: 362px;
+    position: absolute;
+    color: #FBC86B;
+}
+#phones{
+    width: 192px;
+    height: 14px;
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    top: 18px;
+    left: 660px;
+    position: absolute;
+    color: #FBC86B;
+}
+#mail{
+    width: 192px;
+    height: 14px;
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    top: 18px;
+    left: 959px;
+    position: absolute;
+    color: #FBC86B;
+}
+#fb{
+    background: url('./images/Слой\ 9@1X.png') no-repeat;
+    width: 28px;
+    height: 28px;
+    position: absolute;
+    top: 25px;
+    left: 1181px;
+}
+#vk{
+    background: url('./images/Слой\ 8@1X.png') no-repeat;
+    width: 28px;
+    height: 28px;
+    position: absolute;
+    top: 25px;
+    left: 1229px;
+}
